@@ -57,7 +57,7 @@
         "firstName":"Sivuyile" ,
         "lastName":"Mtwetwe",
         "hobbies":"Coding",
-        "criminal":"false",
+        "criminal":false,
         "dreamCars":[
             {
                 "carName":"Ferrari 250 GT",
@@ -68,24 +68,6 @@
                 "carName":"Lamborgini",
                  "engineCapacity": "3",
                  "model": "1980 Athon"
-            }
-        ]
-    },
-    {
-        "firstName":"Avela" ,
-        "lastName":"Nikani",
-        "hobbies":"Rugby",
-        "criminal":false,
-        "dreamCars":[
-            {
-                "carName":"Mercedes Benz",
-                 "engineCapacity": 2,
-                 "model": "A200"
-            },
-            {
-                "carName":"BMW",
-                 "engineCapacity": 2,
-                 "model": "118i"
             }
         ]
     },
@@ -102,8 +84,8 @@
             },
             {
                 "carName":"Toyota",
-                 "engineCapacity": 4,
-                 "model": "ae86"
+                 "engineCapacity": 2,
+                 "model": "AE86"
             }
         ]
     },
@@ -126,20 +108,3 @@
         ]
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

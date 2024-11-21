@@ -1,0 +1,145 @@
+[
+    {
+        "firstName":"Zenande" ,
+        "lastName":"Nocanda",
+        "hobbies":"Sleeping",
+        "criminal":true,
+        "dreamCars":[
+            {
+                "carName":"Hilux",
+                 "engineCapacity": 5,
+                 "model": "GR Sport"
+            },
+            {
+                "carName":"Tiguan",
+                 "engineCapacity": 1.4,
+                 "model": "T-Roc"
+            }
+        ]
+    },
+    {
+        "firstName":"Asiphe" ,
+        "lastName":"Dumzela",
+        "hobbies":"Reading",
+        "criminal":true,
+        "dreamCars":[
+            {
+                "carName":"Mercedes Benz",
+                 "engineCapacity": 6,
+                 "model": "S-class coupe"
+            },
+            {
+                "carName":"BMW",
+                 "engineCapacity": 6,
+                 "model": "GT"
+            }
+        ]
+    },
+    {
+        "firstName":"Siyavuya" ,
+        "lastName":"Khohlani",
+        "hobbies":"Playing games",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carName":"Audi",
+                 "engineCapacity": 4,
+                 "model": "A6 e-Tron"
+            },
+            {
+                "carName":"Merceded Benz",
+                 "engineCapacity": "3",
+                 "model": "EQG"
+            }
+        ]
+    },
+    {
+        "firstName":"Sivuyile" ,
+        "lastName":"Mtwetwe",
+        "hobbies":"Coding",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"Ferrari 250 GT",
+                 "engineCapacity": "3",
+                 "model": "Coupe"
+            },
+            {
+                "carName":"Lamborgini",
+                 "engineCapacity": "3",
+                 "model": "1980 Athon"
+            }
+        ]
+    },
+    {
+        "firstName":"Avela" ,
+        "lastName":"Nikani",
+        "hobbies":"Rugby",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carName":"Mercedes Benz",
+                 "engineCapacity": 2,
+                 "model": "A200"
+            },
+            {
+                "carName":"BMW",
+                 "engineCapacity": 2,
+                 "model": "118i"
+            }
+        ]
+    },
+    {
+        "firstName":"Usisipho" ,
+        "lastName":"Mxinwa",
+        "hobbies":"Gaming",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carName":"Pagani Huayra",
+                 "engineCapacity": 6,
+                 "model": "Huayra R"
+            },
+            {
+                "carName":"Toyota",
+                 "engineCapacity": 4,
+                 "model": "ae86"
+            }
+        ]
+    },
+    {
+        "firstName":"Avela" ,
+        "lastName":"Nikani",
+        "hobbies":"Gaming",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carName":"Dodge",
+                 "engineCapacity": 5,
+                 "model": "challenger"
+            },
+            {
+                "carName":"Merceded AMG GT",
+                 "engineCapacity": 3.982,
+                 "model": "Coupe"
+            }
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

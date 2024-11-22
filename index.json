@@ -6,12 +6,12 @@
         "criminal":true,
         "dreamCars":[
             {
-                "carName":"Hilux",
+                "carName1":"Hilux",
                  "engineCapacity": 5,
                  "model": "GR Sport"
             },
             {
-                "carName":"Tiguan",
+                "carName2":"Tiguan",
                  "engineCapacity": 1.4,
                  "model": "T-Roc"
             }
@@ -24,12 +24,12 @@
         "criminal":true,
         "dreamCars":[
             {
-                "carName":"Mercedes Benz",
+                "carName1":"Mercedes Benz",
                  "engineCapacity": 6,
                  "model": "S-class coupe"
             },
             {
-                "carName":"BMW",
+                "carName2":"BMW",
                  "engineCapacity": 6,
                  "model": "GT"
             }
@@ -42,12 +42,12 @@
         "criminal":false,
         "dreamCars":[
             {
-                "carName":"Audi",
+                "carName1":"Audi",
                  "engineCapacity": 4,
                  "model": "A6 e-Tron"
             },
             {
-                "carName":"Merceded Benz",
+                "carName2":"Merceded Benz",
                  "engineCapacity": "3",
                  "model": "EQG"
             }
@@ -57,35 +57,17 @@
         "firstName":"Sivuyile" ,
         "lastName":"Mtwetwe",
         "hobbies":"Coding",
-        "criminal":"false",
+        "criminal":false,
         "dreamCars":[
             {
-                "carName":"Ferrari 250 GT",
+                "carName1":"Ferrari 250 GT",
                  "engineCapacity": "3",
                  "model": "Coupe"
             },
             {
-                "carName":"Lamborgini",
+                "carName2":"Lamborgini",
                  "engineCapacity": "3",
                  "model": "1980 Athon"
-            }
-        ]
-    },
-    {
-        "firstName":"Avela" ,
-        "lastName":"Nikani",
-        "hobbies":"Rugby",
-        "criminal":false,
-        "dreamCars":[
-            {
-                "carName":"Mercedes Benz",
-                 "engineCapacity": 2,
-                 "model": "A200"
-            },
-            {
-                "carName":"BMW",
-                 "engineCapacity": 2,
-                 "model": "118i"
             }
         ]
     },
@@ -96,14 +78,14 @@
         "criminal":false,
         "dreamCars":[
             {
-                "carName":"Pagani Huayra",
+                "carName1":"Pagani Huayra",
                  "engineCapacity": 6,
                  "model": "Huayra R"
             },
             {
-                "carName":"Toyota",
-                 "engineCapacity": 4,
-                 "model": "ae86"
+                "carName2":"Toyota",
+                 "engineCapacity": 2,
+                 "model": "AE86"
             }
         ]
     },
@@ -114,32 +96,15 @@
         "criminal":false,
         "dreamCars":[
             {
-                "carName":"Dodge",
+                "carName1":"Dodge",
                  "engineCapacity": 5,
                  "model": "challenger"
             },
             {
-                "carName":"Merceded AMG GT",
+                "carName2":"Mercedes Benz",
                  "engineCapacity": 3.982,
                  "model": "Coupe"
             }
         ]
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
